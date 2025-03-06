@@ -17,8 +17,8 @@ export function SiteFooter() {
                         </h1>
                     </div>
                     <p className="text-gray-400 max-w-[300px]">
-                        Give us a chance to serve for you we are a team of great freelancers and tech guys . Great service with top-notch guys
-                    </p>
+                    A AI Platform Where students can learn via AI Irrespective of the place where do they live and what is their backGround
+                   </p>
                 </div>
 
                 <div className="flex flex-col space-y-4">
@@ -46,10 +46,10 @@ export function SiteFooter() {
                 <div className="flex flex-col space-y-4">
                     <h2 className="text-xl font-bold text-blue-600">Follow Us</h2>
                     <div className="flex space-x-4">
-                        <Link href={"https://github.com/SuperexMack"}><span className="text-gray-400 hover:text-white hover:cursor-pointer"><Github className="h-6 w-6 hover:animate-spin"/></span></Link>
-                        <Link href={"https://www.instagram.com/dp_127.0.0.1/?next=%2F"}><span className="text-gray-400 hover:text-white"><Instagram className="h-6 w-6 hover:animate-spin"/></span></Link>
-                        <Link href={"https://www.linkedin.com/in/mohitsatilinks/"}><span className="text-gray-400 hover:text-white"><Linkedin className="h-6 w-6 hover:animate-spin"/></span></Link>
-                        <Link href={"https://x.com/mohitsatitwt"}><span className="text-gray-400 hover:text-white"><Twitter className="h-6 w-6 hover:animate-spin"/></span></Link>
+                        <Link href={"/"}><span className="text-gray-400 hover:text-white hover:cursor-pointer"><Github className="h-6 w-6 hover:animate-spin"/></span></Link>
+                        <Link href={"/"}><span className="text-gray-400 hover:text-white"><Instagram className="h-6 w-6 hover:animate-spin"/></span></Link>
+                        <Link href={"/"}><span className="text-gray-400 hover:text-white"><Linkedin className="h-6 w-6 hover:animate-spin"/></span></Link>
+                        <Link href={"/"}><span className="text-gray-400 hover:text-white"><Twitter className="h-6 w-6 hover:animate-spin"/></span></Link>
                     </div>
                 </div>
             </div>

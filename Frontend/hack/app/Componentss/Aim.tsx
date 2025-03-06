@@ -38,27 +38,27 @@ export function Aim(){
     <div className="w-full h-auto p-5 flex flex-col items-center mt-[200px]">
        <HyperTextDemo></HyperTextDemo>
        <div className="w-full h-auto p-4 flex flex-col items-center">
-            <div className="p-5 space-y-5 w-[80%]">
+            <div className="p-5 space-y-5 md:w-[80%] w-[130%]">
 
-            <div className="flex justify-between ">
+            <div className="flex justify-between w-full">
             <BoxRevealDemo Heading={HeadingArray[0]} first={dataArray[0][0]} second={dataArray[0][1]}></BoxRevealDemo>
             </div>
 
 
-            <div className="flex justify-end">
+            <div className="flex justify-end w-full">
             <BoxRevealDemo Heading={HeadingArray[1]} first={dataArray[1][0]} second={dataArray[1][1]}></BoxRevealDemo>
             </div>
            
-            <div className="flex justify-between ">
+            <div className="flex justify-between w-full">
             <BoxRevealDemo Heading={HeadingArray[2]} first={dataArray[2][0]} second={dataArray[2][1]}></BoxRevealDemo>
             </div>
 
 
-            <div className="flex justify-end">
+            <div className="flex justify-end w-full">
             <BoxRevealDemo Heading={HeadingArray[3]} first={dataArray[3][0]} second={dataArray[3][1]}></BoxRevealDemo>
             </div>
 
-            <div className="flex justify-between ">
+            <div className="flex justify-between w-full">
             <BoxRevealDemo Heading={HeadingArray[4]} first={dataArray[4][0]} second={dataArray[4][1]}></BoxRevealDemo>
             </div>
 
