@@ -15,7 +15,7 @@ export function Landing(){
                 <AnimatedShinyTextDemo></AnimatedShinyTextDemo>
                 <div className="md:w-[60%] w-full flex items-center text-center mt-[40px] flex-col space-y-6">
                 <h1 className="text-[70px]  font-bold bg-gradient-to-r from-slate-400 via-slate-600 to-slate-700 bg-clip-text text-transparent">
-                   <SparklesTextDemo></SparklesTextDemo>
+                   <SparklesTextDemo item="AI Based Platform For New Generation, For Their Growth"></SparklesTextDemo>
                 </h1>
                 <p className="text-white font-medium  text-[15px] md:text-[17px]">A AI Platform Where students can learn
                     via AI Irrespective of the place where do they live 

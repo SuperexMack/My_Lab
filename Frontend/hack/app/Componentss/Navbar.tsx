@@ -3,7 +3,7 @@ import Link from "next/link"
 export function Navbar(){
     return(
         <>
-        <div className="bg-black w-full h-[100px] flex items-center fixed z-10">
+        <div className="bg-black w-full h-[100px] flex items-center fixed top-0 z-10">
            <div className="absolute left-[15%]">
              <h1 className="font-bold text-[30px] text-white">Virtual-Lab</h1>
            </div>
